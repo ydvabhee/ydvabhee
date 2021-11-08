@@ -10,7 +10,7 @@ I'm Abhishek from India, a full stack MERN developer, Innovative, optimized and 
 <!--END_SECTION:waka-->
 
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ydvabhee&layout=compact)](https://github.com/ydvabhee/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=@ydvabhee&layout=compact)](https://github.com/ydvabhee/github-readme-stats)
 
  
 

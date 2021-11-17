@@ -1,7 +1,9 @@
 ##  *Hello World! Welcome to my Github profile*.
 
 I'm Abhishek from India, a full stack MERN developer, Innovative, optimized and solution seeker. Have Good knowledge of Data Structure and Algorithm.
-<!-- <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ydvabhee/ydvabhee/blob/master/devcard.svg" width="200" alt="Chris Bongers's Dev Card"/></a> -->
+
+<img src="https://github.com/ydvabhee/ydvabhee/blob/master/devcard.svg" width="300" alt="Abhishek Yadav's Dev Card"/> 
+
 
 
 ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ydvabhee&show_icons=true&theme=radical)
@@ -17,4 +19,4 @@ I'm Abhishek from India, a full stack MERN developer, Innovative, optimized and 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ydvabhee&layout=compact)](https://github.com/ydvabhee/github-readme-stats)
 
  
-
+ 

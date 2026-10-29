@@ -1,6 +1,6 @@
 ##  *Hello World! Welcome to my Github profile*.
 
-I'm Abhishek from India, a full stack MERN developer, Innovative, optimized and solution seeker. Have Good knowledge of Data Structure and Algorithm.
+I'm Abhishek from India, a full stack developer, Innovative, optimized and solution seeker. 
 
 <img src="https://github.com/ydvabhee/ydvabhee/blob/master/devcard.svg" width="300" alt="Abhishek Yadav's Dev Card"/> 
 
